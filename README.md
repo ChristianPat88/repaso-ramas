@@ -44,3 +44,16 @@ git log # version larga
 git log --oneline # version corta
 ```
 
+# Agregar un remoto a mi repositorio local
+
+```sh
+git remote add origin <url-al-repo-remoto
+git remote add origin https://github.com/ChristianPat88/repaso-ramas.git
+```
+
+# Para ver si se agrego el repo remoto
+
+```sh
+git remote -v
+```
+
